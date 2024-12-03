@@ -60,6 +60,3 @@ romanized_english_to_nepali_converter<br>
 - Develop a GUI version for non-technical users 🖥️.
 - Integrate with popular text editors and IDEs for seamless Nepali typing.
 
-## License 📝
-
-This project is open-source under the MIT License.
