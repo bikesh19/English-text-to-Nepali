@@ -49,10 +49,10 @@ Output:
 ## File Structure 📂
 
 romanized_english_to_nepali_converter/
-│
-├── main.py   
-├── README.md 
-└── dict.txt  
+│<br>
+├── main.py   <br>
+├── dict.txt <br>
+└── README.md  <br>
 
 ## Future Enhancements 🚀
 
