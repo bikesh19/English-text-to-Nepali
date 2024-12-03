@@ -5,7 +5,7 @@ This is a Python script for converting Romanized Nepali text into Nepali script.
 
 ## Features ✨
 
-- 🔠 Converts Romanized Nepali to Nepali script (e.g., `kaam garna` → `काम गर्न`).
+- 🔠 Converts Romanized Nepali to Nepali script (e.g., `kaam garna` → `काम गरन`).
 - 🛠️ Handles multi-character combinations intelligently (e.g., `kri` → `कृ`).
 - 📜 Supports Nepali numbers, punctuation, and conjuncts.
 - 🌐 Perfect for creating Nepali content from Romanized text.
