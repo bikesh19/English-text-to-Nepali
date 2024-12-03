@@ -48,7 +48,7 @@ Output:
 
 ## File Structure 📂
 
-romanized_english_to_nepali_converter/
+romanized_english_to_nepali_converter<br>
 │<br>
 ├── main.py   <br>
 ├── dict.txt <br>
