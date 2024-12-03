@@ -13,7 +13,7 @@ This is a Python script for converting Romanized Nepali text into Nepali script.
 ## How It Works 🔍
 
 1. **Dictionary Mapping**: 
-   - A dictionary (`roman_to_nepali_dict`) maps Roman characters to their Nepali equivalents.
+   - A dictionary (`romanized_english_to_nepali_dict`) maps Roman characters to their Nepali equivalents.
    
 2. **Text Processing**: 
    - The script checks for the longest possible match in the input text using the `broken_text` function.
