@@ -36,7 +36,7 @@ This is a Python script for converting Romanized Nepali text into Nepali script.
    Enter text like `kaam garna` when prompted.
 
 4. **See the Output**:
-   The script will print the converted Nepali text, e.g., `काम गर्न`.
+   The script will print the converted Nepali text, e.g., `काम गरन`.
 
 ## Example 🚀
 
@@ -44,7 +44,7 @@ Input:
 enter text in nepali: kaam garna jaaun
 
 Output:  
-काम गर्न जाऊँ
+काम गरन जाउन
 
 ## File Structure 📂
 
