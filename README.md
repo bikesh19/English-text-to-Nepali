@@ -26,7 +26,7 @@ This is a Python script for converting Romanized Nepali text into Nepali script.
 ## Usage 🛠️
 
 1. **Clone the Repository**:
-   git clone https://github.com/bikesh19/Romanized_English-to-Nepali.git
+   git clone https://github.com/bikesh19/Romanized_English-text-to-Nepali
    cd roman-to-nepali-converter
 
 2. **Run the Script**:
