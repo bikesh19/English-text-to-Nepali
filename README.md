@@ -30,7 +30,7 @@ This is a Python script for converting Romanized Nepali text into Nepali script.
    cd roman-to-nepali-converter
 
 2. **Run the Script**:
-      python roman_to_nepali.py
+      main.py
    
 3. **Input Romanized Nepali**:
    Enter text like `kaam garna` when prompted.
